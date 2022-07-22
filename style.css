@@ -19,3 +19,14 @@ button{
     color: aliceblue;
     border-radius: 20px;
 }
+button:hover{
+    background-color: rgb(23, 56, 45);
+    cursor: pointer;
+    color: aquamarine;
+}
+.calculator{
+    display: inline-block;
+    padding: 30px 20px;
+    background-color: rgb(59, 55, 49);
+    border-radius: 10px;
+}
